@@ -40,7 +40,7 @@ locales["si"] = {
     "message": "Tool:&nbsp;"
   },
   "toolname_SingleRay": {
-    "message": "තනි කිරණ"
+    "message": "තනි කිරණයක්"
   },
   "toolname_AngleSource": {
     "message": "ආලෝක ප්‍රභවය"
@@ -171,7 +171,6 @@ locales["si"] = {
     "message": "File"
   },
   "Tools: ": {
-    "incomplete": true,
     "message": "මෙවලම්"
   },
   "tool_SingleRay": {
@@ -418,11 +417,10 @@ locales["si"] = {
     "message": "නාභීය දුර"
   },
   "cartesianSign": {
-    "incomplete": true,
-    "message": "Cartesian Sign Convention"
+    "message": "කාටිසියානු ලකුණු සම්මුතිය"
   },
   "refIndex": {
-    "message": "වර්තන අංකය*"
+    "message": "වර්තන අංකය"
   },
   "radii_of_curvature": {
     "incomplete": true,
